@@ -29,7 +29,7 @@ export const ProfileRelationsBoxWrapper = styled(Box)`
       left: 0;
       bottom: 10px;
       z-index: 2;
-      padding: 0 4px;
+      padding: 0 8px;
       overflow: hidden;
       text-overflow: ellipsis;
       width: 100%;
