@@ -11,5 +11,8 @@ Projeto desenvolvido durante a Imersão React da Alura.
 * Consumir API utilizando ```fetch```
 * Utilização do DatoCMS para gestão dos conteúdos da aplicação
 * Utilização de queries GraphQL
+* Roteamento com Next.js
+* Cookies com padrão JWT
 
 ... e demais conhecimentos na criação de um projeto react. ✨
+
